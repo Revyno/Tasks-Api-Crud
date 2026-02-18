@@ -1,0 +1,6 @@
+GET http://localhost:3001/users/admin
+PUT http://localhost:3001/aboutus
+POST http://localhost:3001/aboutus
+PATCH http://localhost:3001/aboutus
+DELETE http://localhost:3001/aboutus
+

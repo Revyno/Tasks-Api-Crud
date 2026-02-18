@@ -1,0 +1,9 @@
+GET "http://localhost:3001/tasks"
+Content-Type: application/json
+
+{
+  "title": "New Task",
+  "date": "2024-07-01",
+  "description": "This is a new task.",
+  "status": "pending"
+}
